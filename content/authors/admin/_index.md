@@ -6,7 +6,7 @@ title: Nikola Sekulovski
 superuser: true
 
 # Role/position/tagline
-role: MSc Student Methodology and Statistics
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,35 +17,30 @@ organizations:
 bio: ''
 # Interests to show in About widget
 interests:
-- Bayesian Statistics
-- Psychometrics
-- R programming
-- Machine Learning
+- Bayesian SEM
+- Regularized SEM
 
-# Education to show in About widget
-education:
-  courses:
-  - course: MSc in Methodology and Statistics
-    institution: Utrecht University, The Netherlands
-    year: 2020 - present
-  - course: BSc in Psychology
-    institution: Ss. Cyril and Methodius University, North Macedonia
-    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/sekulovskin
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nikola-sekulovski-254507203
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+  link: https://www.linkedin.com/in/sara-van-erp-6ab3b429/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/SaravanErp
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sara-vanerp
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sara-vanerp
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.nl/citations?user=GaEwv4IAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -62,4 +57,6 @@ highlight_name: true
 ---
 
 
-My primary professional interests are in Bayesian Statistics (more specifically in Bayesian Hypothesis Testing), Psychometrics, R programming and Machine Learning or, even better, some combination of the four! I am a fan of a "common ground" approach regarding the polarization of Statistics in the form of *"Frequentist vs Bayesian"* (even though Centrism, in general, isn't my cup of tea, I believe it might work when it comes to Statistics). You can see more of what I do on my GitHub profile or you can also read my CV. Feel free to contact me with any questions you might have regarding my research/work or if you are interested in future collaboration. I am open for consultations, teaching or just having a fun chat about statistics and data!
+I’m an Assistant Professor in the Methodology and Statistics department at Utrecht University. My research focuses mainly on Bayesian structural equation modeling (SEM). I am especially interested in developing methods for regularized Bayesian SEM, in which we use shrinkage priors to automatically obtain flexible and more realistic models. Please feel free to contact me if you are interested in (regularized) Bayesian SEM or related topics!
+
+Previously, I was a PhD-student at Tilburg University. My project [“Advancing structural equation modeling with unbiased Bayesian methods”](https://www.nwo.nl/projecten) was supported by an NWO Research Talent grant.

@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Nikola Sekulovski # Website name
-baseurl: 'https://sekulovskin.netlify.app/' # Website URL
+title: Sara van Erp # Website name
+baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
