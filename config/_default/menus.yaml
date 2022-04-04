@@ -10,9 +10,6 @@ main:
   - name: Publications
     url: Publications/
     weight: 20
-  - name: Presentations
-    url: Presentations/
-    weight: 30
  -  name: Teaching
     url: Teaching/
     weight: 40
