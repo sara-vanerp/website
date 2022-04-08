@@ -16,9 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 # Interests to show in About widget
-interests:
-- Bayesian SEM
-- Regularized SEM
+#interests:
+#- Bayesian SEM
+#- Regularized SEM
 
 
 # Social/Academic Networking
