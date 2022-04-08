@@ -8,6 +8,11 @@ header:
   image: ""
 ---
 
+## 2022
+
+Van Lissa, C. J. & Van Erp, S. (2022). [Select relevant moderators using Bayesian regularized meta-regression.](https://doi.org/10.31234/osf.io/6phs5) *PsyArxiv Preprint*. Corresponding R-package available from [CRAN](https://cran.r-project.org/web/packages/pema/index.html).
+
+
 ## 2021
 
 Van Erp, S. & Browne, W. J. (2021). [Bayesian Multilevel Structural Equation Modeling: An Investigation into Robust Prior Distributions for the Doubly Latent Categorical Model](https://www.tandfonline.com/doi/full/10.1080/10705511.2021.1915146). *Structural Equation Modeling: A Multidisciplinary Journal, 28:6*, 875-893. doi:10.1080/10705511.2021.1915146. Code available [here](https://osf.io/pq8gm/).
@@ -22,7 +27,7 @@ van Erp, S. (2020). [A Tutorial on Bayesian Penalized Regression with Shrinkage 
 
 ## 2019 
 
-Van Erp, S., Oberski, D. L., & Mulder, J. (2019). [Shrinkage Priors for Bayesian Penalized Regression](https://www.sciencedirect.com/science/article/abs/pii/S0022249618300567). *Journal of Mathematical Psychology, 89*, 31-50. doi:10.1016/j.jmp.2018.12.004. Preprint and code available [here](https://osf.io/bf5up/files/).
+Van Erp, S., Oberski, D. L., & Mulder, J. (2019). [Shrinkage Priors for Bayesian Penalized Regression](https://www.sciencedirect.com/science/article/abs/pii/S0022249618300567). *Journal of Mathematical Psychology, 89*, 31-50. doi:10.1016/j.jmp.2018.12.004. Preprint and code available [here](https://osf.io/bf5up/files/). Corresponding R-package available [here](https://github.com/sara-vanerp/bayesreg).
 
 ## 2018
 
