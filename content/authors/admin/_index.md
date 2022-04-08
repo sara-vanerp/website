@@ -26,18 +26,21 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/sara-van-erp-6ab3b429/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/SaravanErp
-- icon: github
-  icon_pack: fab
-  link: https://github.com/sara-vanerp
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.nl/citations?user=GaEwv4IAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sara-vanerp
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/4cp3r
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/SaravanErp
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sara-van-erp-6ab3b429/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
