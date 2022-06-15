@@ -8,3 +8,18 @@ header:
   image: ""
 ---
 
+## Workshops
+In 2022, I have given a workshop on Bayesian Structural Equation Modeling during the conference [SEM: New Developments and Applications](https://www.tilburguniversity.edu/about/schools/socialsciences/organization/departments/methodology-statistics/events/structural-equation-modeling). Materials for this workshop are available on [GitHub](https://github.com/sara-vanerp/BSEMworkshop).
+
+## Courses
+I have taught work groups in various methodology and statistics courses since 2012, first as student-assistant and later as a PhD candidate. As Assistant Professor at Utrecht University, I have (co-)coordinated and taught in various methodology and statistics courses, mainly in the undergraduate social science programs. 
+
+## Supervision
+### 2022
+Michael Koch (Research Master Methodology and Statistics for the Behavioural Biomedical and Social Sciences): Getting a Step Ahead: Using the Regularized Horseshoe Prior to Select Cross-Loadings in Bayesian CFA. All code available on [GitHub](https://github.com/JMBKoch/1vs2StepBayesianRegSEM).
+
+### 2021
+Ylias Ben Salah (Master Applied Data Science): A Comparison between Bayesian penalized regression priors: Lasso and regularized horseshoe.
+
+Rashied Amir (Master Applied Data Science): The key differences between the classic and Bayesian LASSO: Comparing shrinkage and variable selection properties in regression problems.
+

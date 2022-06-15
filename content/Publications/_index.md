@@ -8,9 +8,9 @@ header:
   image: ""
 ---
 
-## 2022
+## Preprints
 
-Van Lissa, C. J. & Van Erp, S. (2022). [Select relevant moderators using Bayesian regularized meta-regression.](https://doi.org/10.31234/osf.io/6phs5) *PsyArxiv Preprint*. Corresponding R-package available from [CRAN](https://cran.r-project.org/web/packages/pema/index.html).
+Van Lissa, C. J. & Van Erp, S. (Preprint). [Select relevant moderators using Bayesian regularized meta-regression.](https://doi.org/10.31234/osf.io/6phs5) *PsyArxiv Preprint*. Corresponding R-package available from [CRAN](https://cran.r-project.org/web/packages/pema/index.html).
 
 
 ## 2021
