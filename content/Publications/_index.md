@@ -10,8 +10,13 @@ header:
 
 ## Preprints
 
-Van Lissa, C. J. & Van Erp, S. (Preprint). [Select relevant moderators using Bayesian regularized meta-regression.](https://doi.org/10.31234/osf.io/6phs5) *PsyArxiv Preprint*. Corresponding R-package available from [CRAN](https://cran.r-project.org/web/packages/pema/index.html).
+Van Erp, S. (Preprint). [Bayesian regularized SEM: Current capabilities and constraints](https://psyarxiv.com/92vh8). PsyArxiv Preprint. Code available [here](https://github.com/sara-vanerp/BRSsoftware).
 
+## 2023
+
+Van Lissa, C. J., Van Erp, S. & Clapper E-B. (2023). [Selecting relevant moderators with Bayesian regularized meta-regression.](https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1628) *Research Synthesis Methods, 14*(2), 301-322. doi:10.1002/jrsm.1628. Corresponding R-package available from [CRAN](https://cran.r-project.org/web/packages/pema/index.html).
+
+Jonker, F.,  de Looff, P.,  van Erp, S.,  Nijman, H., &  Didden, R. (2023).  [The adaptive ability performance test (ADAPT): A factor analytic study in clients with intellectual disabilities.](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1111%2Fjar.13044) _Journal of Applied Research in Intellectual Disabilities_,  36( 1),  3–12. [https://doi.org/10.1111/jar.13044](https://doi.org/10.1111/jar.13044)
 
 ## 2021
 
