@@ -12,9 +12,14 @@ header:
 In 2022, I gave a workshop on Bayesian Structural Equation Modeling during the conference [SEM: New Developments and Applications](https://www.tilburguniversity.edu/about/schools/socialsciences/organization/departments/methodology-statistics/events/structural-equation-modeling). Materials for this workshop are available on [GitHub](https://github.com/sara-vanerp/BSEMworkshop).
 
 ## Courses
-I have taught work groups in various methodology and statistics courses since 2012, first as student-assistant and later as a PhD candidate. As Assistant Professor at Utrecht University, I have (co-)coordinated and taught in various methodology and statistics courses, mainly in the undergraduate social science programs. 
+I have taught work groups in various methodology and statistics courses since 2012, first as student-assistant and later as a PhD candidate. As Assistant Professor at Utrecht University, I have (co-)coordinated and taught in various methodology and statistics courses.
 
 ## Supervision
+
+### 2022-Current
+#### PhD-Student Road to Resilience project
+I am co-promotor and daily supervisor of *Sanne Appels* on the interdisciplinary [Road to Resilience](https://wil.sites.uu.nl/home/) project. The goal of this project is to uncover protective factors and compensatory mechanisms behind resilient trajectories in atypical literacy acquisition using Bayesian (regularized) SEM.
+
 ### 2022
 #### Research Master Methodology and Statistics for the Behavioural Biomedical and Social Sciences
 - *Michael Koch*. Getting a Step Ahead: Using the Regularized Horseshoe Prior to Select Cross-Loadings in Bayesian CFA. All code available on [GitHub](https://github.com/JMBKoch/1vs2StepBayesianRegSEM).
