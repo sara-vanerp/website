@@ -10,6 +10,8 @@ header:
 
 ## 2022
 
+- <span style="color: grey;"> October 7</span>. Fall meeting BMS-ANed, Amsterdam, The Netherlands. *[Bayesian shrinkage methods: Priors, considerations, and possibilities.](https://www.vvsor.nl/biometrics/events/shrinkage-methods-novel-perspectives-and-applications/)* (Invited speaker)
+
 - <span style="color: grey;">March 10-11</span>. Structural Equation Modeling: New Developments and Applications, Tilburg, The Netherlands. *[Bayesian Regularized SEM: What, Why, When, and How?](https://github.com/sara-vanerp/bayesregsem/blob/main/presentations/2022-03-11_SEMConference.pdf)*.
 
 ## 2019
