@@ -12,7 +12,7 @@ header:
 In 2022, I gave a workshop on Bayesian Structural Equation Modeling during the conference [SEM: New Developments and Applications](https://www.tilburguniversity.edu/about/schools/socialsciences/organization/departments/methodology-statistics/events/structural-equation-modeling). Materials for this workshop are available on [GitHub](https://github.com/sara-vanerp/BSEMworkshop).
 
 ## Courses
-I have taught work groups in various methodology and statistics courses since 2012, first as student-assistant and later as a PhD candidate. As Assistant Professor at Utrecht University, I have (co-)coordinated and taught in various methodology and statistics courses.
+I have taught work groups in various methodology and statistics courses since 2012, first as student-assistant and later as a PhD candidate. As Assistant Professor at Utrecht University, I have (co-)coordinated and taught in various methodology and statistics courses, including the Bayesian summer school course for which I developed [new materials](https://utrechtuniversity.github.io/BayesianEstimation/).
 
 ## Supervision
 
