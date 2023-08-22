@@ -8,11 +8,9 @@ header:
   image: ""
 ---
 
-## Preprints
+## 2023
 
 Van Erp, S. (2023). [Bayesian regularized SEM: Current capabilities and constraints](https://www.mdpi.com/2624-8611/5/3/54). *Psych, 5*(3), 814-835. doi:10.3390/psych5030054. Code available [here](https://github.com/sara-vanerp/BRSsoftware).
-
-## 2023
 
 Van Lissa, C. J., Van Erp, S. & Clapper E-B. (2023). [Selecting relevant moderators with Bayesian regularized meta-regression.](https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1628) *Research Synthesis Methods, 14*(2), 301-322. doi:10.1002/jrsm.1628. Corresponding R-package available from [CRAN](https://cran.r-project.org/web/packages/pema/index.html).
 
