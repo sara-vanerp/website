@@ -10,7 +10,7 @@ header:
 
 ## Preprints
 
-Van Erp, S. (Preprint). [Bayesian regularized SEM: Current capabilities and constraints](https://psyarxiv.com/92vh8). PsyArxiv Preprint. Code available [here](https://github.com/sara-vanerp/BRSsoftware).
+Van Erp, S. (2023). [Bayesian regularized SEM: Current capabilities and constraints](https://www.mdpi.com/2624-8611/5/3/54). *Psych, 5*(3), 814-835. doi:10.3390/psych5030054. Code available [here](https://github.com/sara-vanerp/BRSsoftware).
 
 ## 2023
 
