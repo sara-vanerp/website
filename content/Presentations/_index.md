@@ -8,6 +8,11 @@ header:
   image: ""
 ---
 
+## 2023
+
+- <span style="color: grey;">July 11-13</span>. European Congress of Methodology (EAM), Ghent, Belgium. *[Bayesian regularized structural equation modeling (SEM): Current capabilities and constraints](https://github.com/sara-vanerp/presentations/blob/main/07-23_Bayesian_regularized_SEM.pdf)*.
+
+
 ## 2022
 
 - <span style="color: grey;"> October 7</span>. Fall meeting BMS-ANed, Amsterdam, The Netherlands. *[Bayesian shrinkage methods: Priors, considerations, and possibilities.](https://www.vvsor.nl/biometrics/events/shrinkage-methods-novel-perspectives-and-applications/)* (Invited speaker)
@@ -27,7 +32,7 @@ header:
 
  - <span style="color: grey;">December 13-14</span>. Interuniversity graduate school of Psychometrics and Sociometrics (IOPS) winter conference, Arnhem, The Netherlands. *Shrinkage priors for Bayesian measurement invariance: Practical and robust approaches for modeling and detecting non-invariance*. Awarded with the **IOPS Best Presentation Award**.
 
-- <span style="color: grey;">August 29-31.</span>. [StanCon](https://mc-stan.org/events/stancon2018Helsinki/), Helsinki, Finland. *Shrinkage priors for Bayesian penalized regression* (poster).
+- <span style="color: grey;">August 29-31</span>. [StanCon](https://mc-stan.org/events/stancon2018Helsinki/), Helsinki, Finland. *Shrinkage priors for Bayesian penalized regression* (poster).
 
 
 - <span style="color: grey;">March 15-16</span>. Structural Equation Modeling (SEM) Working Group, Amsterdam, The Netherlands. *Prior sensitivity analysis in default Bayesian structural equation modeling*.
