@@ -57,6 +57,10 @@ highlight_name: true
 ---
 
 
-I’m an Assistant Professor in the Methodology and Statistics department at Utrecht University. My research focuses mainly on Bayesian structural equation modeling (SEM). I am especially interested in developing methods for regularized Bayesian SEM, in which we use shrinkage priors to automatically obtain flexible and more realistic models. Please feel free to contact me if you are interested in (regularized) Bayesian SEM or related topics!
+I’m an Assistant Professor in the Methodology and Statistics department at Utrecht University. I develop statistical methods so that applied researchers can estimate more realistic models using all the data they have available. 
 
-Previously, I was a PhD-student at Tilburg University. My project [“Advancing structural equation modeling with unbiased Bayesian methods”](https://www.nwo.nl/projecten) was supported by an NWO Research Talent grant.
+In 2023, I was awarded an [NWO VENI grant](https://www.nwo.nl/en/news/veni-grant-for-188-scientists-from-all-fields) for my project *"Making sense of the world: Modeling social and behavioral phenomena more accurately using Bayesian regularized structural equation modeling"*. In this project, I will develop Bayesian regularized structural equation models and user-friendly software to make these models accessible to applied researchers.
+
+Previously, I was a PhD-student at Tilburg University. My project *"Advancing structural equation modeling with unbiased Bayesian methods"* was supported by an NWO Research Talent grant. Based on my PhD thesis *"[Bayesian Structural Equation Modeling: The Power of the Prior](https://research.tilburguniversity.edu/en/publications/bayesian-structural-equation-modeling-the-power-of-the-prior)*", I graduated Cum Laude in 2020.
+
+Please feel free to contact me if you are interested in Bayesian regularized SEM or related topics!
