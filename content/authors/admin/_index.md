@@ -61,6 +61,6 @@ I’m an Assistant Professor in the Methodology and Statistics department at Utr
 
 In 2023, I was awarded an [NWO VENI grant](https://www.nwo.nl/en/news/veni-grant-for-188-scientists-from-all-fields) for my project *"Making sense of the world: Modeling social and behavioral phenomena more accurately using Bayesian regularized structural equation modeling"*. In this project, I will develop Bayesian regularized structural equation models and user-friendly software to make these models accessible to applied researchers.
 
-Previously, I was a PhD-student at Tilburg University. My project *"Advancing structural equation modeling with unbiased Bayesian methods"* was supported by an NWO Research Talent grant. Based on my PhD thesis *"[Bayesian Structural Equation Modeling: The Power of the Prior](https://research.tilburguniversity.edu/en/publications/bayesian-structural-equation-modeling-the-power-of-the-prior)*", I graduated Cum Laude in 2020.
+Previously, I was a PhD-student at Tilburg University. My project *"Advancing structural equation modeling with unbiased Bayesian methods"* was supported by an NWO Research Talent grant. I was awarded my PhD Cum Laude in 2020 based on my PhD thesis *"[Bayesian Structural Equation Modeling: The Power of the Prior](https://research.tilburguniversity.edu/en/publications/bayesian-structural-equation-modeling-the-power-of-the-prior)*".
 
 Please feel free to contact me if you are interested in Bayesian regularized SEM or related topics!
