@@ -8,6 +8,11 @@ header:
   image: ""
 ---
 
+## 2024
+
+Appels, S., van Viersen, S., van Erp, S., Hornstra, L., & de Bree, E. (2024). [A scoping review on word-reading resilience in literacy: Evaluating empirical evidence for protective factors](https://www.sciencedirect.com/science/article/pii/S0959475224000963). *Learning and Instruction, 93*, 101969. doi:10.1016/j.learninstruc.2024.101969. 
+
+
 ## 2023
 
 Van Erp, S. (2023). [Bayesian regularized SEM: Current capabilities and constraints](https://www.mdpi.com/2624-8611/5/3/54). *Psych, 5*(3), 814-835. doi:10.3390/psych5030054. Code available [here](https://github.com/sara-vanerp/BRSsoftware).
