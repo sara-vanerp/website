@@ -16,8 +16,12 @@ I have taught work groups in various methodology and statistics courses since 20
 
 ## Supervision
 
+### 2024-Current
+#### PhD-Student Florian van Leeuwen  
+I am co-promotor and daily supervisor of *Florian van Leeuwen* on the project: "Getting the best predictions from complex data sets: Balancing scalability and interpretability". The goal of this project is to bridge the gap between the scalability of predictive modeling techniques and their interpretability by combining rigorous statistical methods with innovative machine learning approaches.
+
 ### 2022-Current
-#### PhD-Student Road to Resilience project
+#### PhD-Student Sanne Appels
 I am co-promotor and daily supervisor of *Sanne Appels* on the interdisciplinary [Road to Resilience](https://wil.sites.uu.nl/home/) project. The goal of this project is to uncover protective factors and compensatory mechanisms behind resilient trajectories in atypical literacy acquisition using Bayesian (regularized) SEM.
 
 ### 2022
