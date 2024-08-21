@@ -8,6 +8,12 @@ header:
   image: ""
 ---
 
+## 2024
+
+- <span style="color: grey;">July 16-19</span>. International Meeting of the Psychometric Society (IMPS), Prague, Czech Republic. *[Projection predictive variable selection for Bayesian regularized SEM](https://github.com/sara-vanerp/presentations/blob/main/07-24_projpredSEM.html)*.
+
+- <span style="color: grey;">March 14-15</span>. Structural Equation Modeling (SEM) Working Group, Enschede, The Netherlands. *[Projection predictive variable selection for Bayesian regularized SEM](https://github.com/sara-vanerp/presentations/blob/main/03-24_projpredSEM.html)*.
+
 ## 2023
 
 - <span style="color: grey;">July 11-13</span>. European Congress of Methodology (EAM), Ghent, Belgium. *[Bayesian regularized structural equation modeling (SEM): Current capabilities and constraints](https://github.com/sara-vanerp/presentations/blob/main/07-23_Bayesian_regularized_SEM.pdf)*.
