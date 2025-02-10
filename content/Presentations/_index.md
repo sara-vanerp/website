@@ -10,7 +10,7 @@ header:
 
 ## 2025
 
-- <span style="color: grey;">February 6-7</span>. Psychoco, Ghent, Belgium. *[Bayesian SEM and Big Data: An Unhappy Marriage?](https://github.com/sara-vanerp/presentations/blob/main/2025-02_Psychoco_bayesregsem.html)*. (Invited opening speaker)
+- <span style="color: grey;">February 6-7</span>. Psychoco, Ghent, Belgium. *[Bayesian SEM and Big Data: An Unhappy Marriage?](https://github.com/sara-vanerp/presentations/blob/main/2025-02_Psychoco_bayesregsem.html)* (Invited opening speaker)
 
 ## 2024
 
