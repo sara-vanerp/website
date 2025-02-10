@@ -8,22 +8,28 @@ header:
   image: ""
 ---
 
+## 2025
+
+- <span style="color: grey;">February 6-7</span>. Psychoco, Ghent, Belgium. *[Bayesian SEM and Big Data: An Unhappy Marriage?](https://github.com/sara-vanerp/presentations/blob/main/2025-02_Psychoco_bayesregsem.html)*. (Invited opening speaker)
+
 ## 2024
 
-- <span style="color: grey;">July 16-19</span>. International Meeting of the Psychometric Society (IMPS), Prague, Czech Republic. *[Projection predictive variable selection for Bayesian regularized SEM](https://github.com/sara-vanerp/presentations/blob/main/07-24_projpredSEM.html)*.
+- <span style="color: grey;">December 14-16</span>. International Joint Conference CFE-CMStatistics, London, United Kingdom. *[Projection predictive variable selection for Bayesian regularized SEM](https://github.com/sara-vanerp/presentations/blob/main/2024-12_projpredSEM.html)*.
 
-- <span style="color: grey;">March 14-15</span>. Structural Equation Modeling (SEM) Working Group, Enschede, The Netherlands. *[Projection predictive variable selection for Bayesian regularized SEM](https://github.com/sara-vanerp/presentations/blob/main/03-24_projpredSEM.html)*.
+- <span style="color: grey;">July 16-19</span>. International Meeting of the Psychometric Society (IMPS), Prague, Czech Republic. *[Projection predictive variable selection for Bayesian regularized SEM](https://github.com/sara-vanerp/presentations/blob/main/2024-07_projpredSEM.html)*.
+
+- <span style="color: grey;">March 14-15</span>. Structural Equation Modeling (SEM) Working Group, Enschede, The Netherlands. *[Projection predictive variable selection for Bayesian regularized SEM](https://github.com/sara-vanerp/presentations/blob/main/2024-03_projpredSEM.html)*.
 
 ## 2023
 
-- <span style="color: grey;">July 11-13</span>. European Congress of Methodology (EAM), Ghent, Belgium. *[Bayesian regularized structural equation modeling (SEM): Current capabilities and constraints](https://github.com/sara-vanerp/presentations/blob/main/07-23_Bayesian_regularized_SEM.pdf)*.
+- <span style="color: grey;">July 11-13</span>. European Congress of Methodology (EAM), Ghent, Belgium. *[Bayesian regularized structural equation modeling (SEM): Current capabilities and constraints](https://github.com/sara-vanerp/presentations/blob/main/2023-07_Bayesian_regularized_SEM.pdf)*.
 
 
 ## 2022
 
-- <span style="color: grey;"> October 7</span>. Fall meeting BMS-ANed, Amsterdam, The Netherlands. *[Bayesian shrinkage methods: Priors, considerations, and possibilities.](https://www.vvsor.nl/biometrics/events/shrinkage-methods-novel-perspectives-and-applications/)* (Invited speaker)
+- <span style="color: grey;"> October 7</span>. Fall meeting BMS-ANed, Amsterdam, The Netherlands. *[Bayesian shrinkage methods: Priors, considerations, and possibilities.](https://github.com/sara-vanerp/presentations/blob/main/2022-10_Bayesian_shrinkage_methods.pdf)* (Invited speaker)
 
-- <span style="color: grey;">March 10-11</span>. Structural Equation Modeling: New Developments and Applications, Tilburg, The Netherlands. *[Bayesian Regularized SEM: What, Why, When, and How?](https://github.com/sara-vanerp/bayesregsem/blob/main/presentations/2022-03-11_SEMConference.pdf)*.
+- <span style="color: grey;">March 10-11</span>. Structural Equation Modeling: New Developments and Applications, Tilburg, The Netherlands. *[Bayesian Regularized SEM: What, Why, When, and How?](https://github.com/sara-vanerp/presentations/blob/main/2022-03_Bayesian_regularized_SEM.pdf)*.
 
 ## 2019
 
