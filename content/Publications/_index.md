@@ -8,9 +8,11 @@ header:
   image: ""
 ---
 
-## Preprints
+## 2025
 
-Karimova, D., **van Erp, S.**, Leenders, R., & Mulder, J. [Honey, I Shrunk the Irrelevant Effects! Simple and Fast Approximate Bayesian Regularization](https://osf.io/preprints/psyarxiv/2g8qm_v1)
+Karimova, D., **van Erp, S.**, Leenders, R., & Mulder, J. 
+[Honey, I Shrunk the Irrelevant Effects! Simple and Fast Approximate Bayesian Regularization](https://pdf.sciencedirectassets.com/272579/1-s2.0-S0022249625X00031/1-s2.0-S0022249625000264/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIAFxiWRkJThx0SnPjIGphj0ud72nEX6s1sq233REli8fAiEA8tJqKPekSQpZ2TQ1G5uU81HmYq7dvcRPhIZnQM6yxVoquwUIoP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDOXKzvSRX3AM59SinyqPBfqtNdD1rN8qf3%2B5JGspb6ZZGLzdPwrV0R7zyH9Vu6MHlAgYIaYWQuySSmRvOjxz22p9M3jU5C3cTHrk5NfgddMKztN0D6B%2FWB42MFgUO9aWzOv3y9a4VyQkAPriFADobw2akrTpWmrN1kbQ9%2BX5pzPcanPa9hsVUTGIFCfc9h2yP2VTpzFpLBtrtWmlqt0tiGzGH%2BWDBFR3Ug5i%2B9HpiUplZiCppLz6oAZ4DOpp0Uj6GmqGRfxHkMsoOsNFKXPAy%2Bt4UdEZXJTOB4QN3igj0xtan0VFqEYIE5IVfE73MRFlCY4l8VQyPNxtgbJLMIuHNpt7DwC2R5wTcrQ2JEGIqlzXsdpio%2Fy2kb5R56y%2Baw1um%2BdYRBc23OCq3MxDle7dA2UCatrLeaA0VuSCNbAmoXciDjrJShgNBHrPeI0pYhxqC%2FYoc6NvjAlVIAnMvmc89AuJYsZSMcull1qgNPqcGFawZAaY1TGwBihWrzeqoYQOH13bpZnmHn3WzM9xfR9810uVsjI%2FclX%2FZTmfFf36kdk1ZNfHbgELEa%2F1%2BWdWBPQn169n5Pj%2BQlKwEuWiNyxYwbV3xmzqJmQd1UfN%2FUf6ojq05IRVs5hOB5gUOo49MuPaCYWfTmXBALe0nGQexi7e94pmja3C9dk%2BHuqQO3jzksrowffNYyxAQvh7bOa7DXUq946yKXx6ccO1ZaccVl6Qjlwk2pGk6fPr8BRVr4XG5VEgTf8nbXH3Xxv4FFNhQYDFOZBaGRs9VfvoVInXaqr1AIga8BEaRNLe%2BPFaoGi4NK8AExasA%2F3p3YhB5cZvZZUWmhj2hB79r4vNyNemKTgT3dCwtqz9KWGPr3KpoKycEERxNElliBRISybM%2BjUUBkYwj5%2FlwQY6sQHyqLEkTsBMG8ECLlIbsS%2Fwjk%2FrIsQlUzc8Iqfpn72JPd1y650gXB6FhW5IMInGNLDsMNVLUBjeERpcRslF7yQ1jdAT1NszF0ENaVhqwglYK7Bg9N%2F1C8qRERromNV3itmZDOlfCwMoO9NHiM3jZLLS6j%2FaJX9Wrvfvkxs4DzjyN8CJ6ki3bSVPtzvmTQlvSRCfEYPENpuE8yp7cO%2FpaLQLuiNXHrBw4mG0CoW3%2BsPsk%2Bg%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250530T070832Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTAJ6QE7R%2F20250530%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1c783dd5b43e1d6ae889e667bdf60e958ea81af29f17e92cd5fc7c749d33fc00&hash=b03dd8c6dd003335f41a65857cc5beac10ecb232563163296f826c0265eaf074&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0022249625000264&tid=spdf-820af883-a1f5-4d54-bbb9-adae79ae7efc&sid=f4ab30d42d59f74bc50b99d-5275f7963ce3gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=140a5656570256595a0c0d&rr=947c669cbbc460e5&cc=nl).
+*Journal of Mathematical Psychology, 126,* 102925. doi:10.1016/j.jmp.2025.102925.
 
 ## 2024
 
@@ -23,7 +25,7 @@ Appels, S., van Viersen, S., **van Erp, S.**, Hornstra, L., & de Bree, E. (2024)
 
 Van Lissa, C. J., **van Erp, S.** & Clapper E-B. (2023). [Selecting relevant moderators with Bayesian regularized meta-regression.](https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1628) *Research Synthesis Methods, 14*(2), 301-322. doi:10.1002/jrsm.1628. Corresponding R-package available from [CRAN](https://cran.r-project.org/web/packages/pema/index.html).
 
-Jonker, F.,  de Looff, P.,  **van Erp, S.**,  Nijman, H., &  Didden, R. (2023).  [The adaptive ability performance test (ADAPT): A factor analytic study in clients with intellectual disabilities.](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1111%2Fjar.13044) _Journal of Applied Research in Intellectual Disabilities_,  36( 1),  3–12. [https://doi.org/10.1111/jar.13044](https://doi.org/10.1111/jar.13044)
+Jonker, F.,  de Looff, P.,  **van Erp, S.**,  Nijman, H., &  Didden, R. (2023).  [The adaptive ability performance test (ADAPT): A factor analytic study in clients with intellectual disabilities.](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1111%2Fjar.13044) _Journal of Applied Research in Intellectual Disabilities_,  36( 1),  3–12. doi:10.1111/jar.13044.
 
 ## 2021
 
