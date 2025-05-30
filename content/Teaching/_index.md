@@ -29,6 +29,10 @@ I am co-promotor and daily supervisor of *Sanne Appels* on the interdisciplinary
 ### Master students
 
 #### Research Master Methodology and Statistics for the Behavioural Biomedical and Social Sciences 
+- *Jonathan Koop* (2025). Refining Relational Event Models: Bayesian Penalization and Variable Selection in REMs. All code available on [Github](https://github.com/jonathankoop/BayesianRegularization-REMs).
+
+- *Zhipei (Kim) Wang* (2025). Comparing Bayesian Post-estimation Variable Selection Methods: Projection Predictive Variable Selection Versus Stochastic Search Variable Selection. All code available on [Github](https://github.com/zhipeiwang/projpred_vs_spikeslab).
+
 - *Michael Koch* (2022). Getting a Step Ahead: Using the Regularized Horseshoe Prior to Select Cross-Loadings in Bayesian CFA. All code available on [GitHub](https://github.com/JMBKoch/1vs2StepBayesianRegSEM).
 
 #### Master Applied Data Science 
